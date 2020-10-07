@@ -1,0 +1,12 @@
+﻿ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetVersion referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetVersionInfo referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetErrorText referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_Initialize referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_Terminate referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetHostApiInfo referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetDeviceCount referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetDefaultInputDevice referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetDefaultOutputDevice referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_GetDeviceInfo referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol _Pa_IsFormatSupported referenced in function "void __cdecl PrintSupportedStandardSampleRates(struct PaStreamParameters const *,struct PaStreamParameters const *)" (?PrintSupportedStandardSampleRates@@YAXPBUPaStreamParameters@@0@Z)
+C:\Users\cp\source\github\portaudio-listdevices-command\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 11 unresolved externals

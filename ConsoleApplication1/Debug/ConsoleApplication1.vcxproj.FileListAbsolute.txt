@@ -1,0 +1,2 @@
+C:\Users\cp\source\github\portaudio-listdevices-command\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\cp\source\github\portaudio-listdevices-command\ConsoleApplication1\Debug\ConsoleApplication1.pdb
